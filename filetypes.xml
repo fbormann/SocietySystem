@@ -1,0 +1,9 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping pattern="MeioPagamento" type="Groovy" />
+      <mapping pattern="GerenciamentoConta" type="Groovy" />
+      <mapping pattern="Conta Pessoal" type="PLAIN_TEXT" />
+    </extensionMap>
+  </component>
+</application>
